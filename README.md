@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 ### Tech Stack:
-#### HTML5  CSS3  JavaScript  React
+#### HTML5,  CSS3,  JavaScript,  React, 
 
-#### Python  C  Java  NodeJS
+#### Python,  C,  Java,  NodeJS, 
 
-#### MySQL  MongoDB  Firebase
+#### MySQL,  MongoDB
 
 
 ### About Me
