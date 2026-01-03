@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tech Stack:
-#### HTML5,  CSS3,  JavaScript,  React, 
-
-#### Python,  C,  Java,  NodeJS, 
-
-#### MySQL,  MongoDB
+![TechStack](assets/c82e14a5-472c-4d13-bb5e-bbd88a8b850e.jpg)
 
 
 ### About Me
